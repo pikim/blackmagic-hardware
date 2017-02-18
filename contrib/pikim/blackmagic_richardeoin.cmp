@@ -1,0 +1,360 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /56AFA0B8;
+Reference = BTN1;
+ValeurCmp = OMRON_SPST.B3U-1000P(M);
+IdModule  = BLACKMAGIC_RICHARDEOIN_OMRON_B3U-1000P(M);
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA180;
+Reference = BTN2;
+ValeurCmp = OMRON_SPST.B3U-1000P(M);
+IdModule  = BLACKMAGIC_RICHARDEOIN_OMRON_B3U-1000P(M);
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA248;
+Reference = C1;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA310;
+Reference = C2;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA3D8;
+Reference = C3;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA4A0;
+Reference = C4;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA568;
+Reference = C5;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA630;
+Reference = C6;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA6F8;
+Reference = C7;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA7C0;
+Reference = C8;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA888;
+Reference = C9;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFA950;
+Reference = C10;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAA18;
+Reference = C11;
+ValeurCmp = C-EUC0603K;
+IdModule  = RESISTOR_C0603K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAAE0;
+Reference = CN1;
+ValeurCmp = USBMINIB;
+IdModule  = MICROBUILDER_V3_USB-MINIB;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFABA8;
+Reference = D1;
+ValeurCmp = LEDCHIPLED_0603;
+IdModule  = LED_CHIPLED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAC70;
+Reference = D2;
+ValeurCmp = LEDCHIPLED_0603;
+IdModule  = LED_CHIPLED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAD38;
+Reference = D3;
+ValeurCmp = LEDCHIPLED_0603;
+IdModule  = LED_CHIPLED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAE00;
+Reference = D4;
+ValeurCmp = LEDCHIPLED_0603;
+IdModule  = LED_CHIPLED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFAF90;
+Reference = IC1;
+ValeurCmp = STM32F_48PIN;
+IdModule  = STM32F_TQFP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB058;
+Reference = IC2;
+ValeurCmp = TX0108PWR;
+IdModule  = DAN-TRANSLATE_TSSOP20;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB120;
+Reference = IC3;
+ValeurCmp = TLV700_TLV700DCK;
+IdModule  = BLACKMAGIC_RICHARDEOIN_TLV700_SC70-5L;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB1E8;
+Reference = JP1;
+ValeurCmp = PINHD-2X5;
+IdModule  = PINHEAD_2X05;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB2B0;
+Reference = JP2;
+ValeurCmp = PINHD-1X02_2.54-SMD-90°-BIG;
+IdModule  = PINHEAD-2_1X02SMD_90-BIGPADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB378;
+Reference = Q1;
+ValeurCmp = BSS84;
+IdModule  = TRANSISTOR-SMALL-SIGNAL_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB440;
+Reference = R1;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB508;
+Reference = R2;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB5D0;
+Reference = R3;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB698;
+Reference = R4;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB760;
+Reference = R5;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB828;
+Reference = R6;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB8F0;
+Reference = R7;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFB9B8;
+Reference = R8;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFBA80;
+Reference = R9;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFBB48;
+Reference = R10;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFBC10;
+Reference = R11;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFBCD8;
+Reference = R12;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFBDA0;
+Reference = R13;
+ValeurCmp = RESISTOR0603MINI;
+IdModule  = MICROBUILDER_0603-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCAE8;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCBB0;
+Reference = VP_1;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCC78;
+Reference = VP_2;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCD40;
+Reference = VP_3;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCE08;
+Reference = VP_4;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCED0;
+Reference = VP_5;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFCF98;
+Reference = VP_6;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD060;
+Reference = VP_7;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD128;
+Reference = VP_8;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD1F0;
+Reference = VP_9;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD2B8;
+Reference = VP_10;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD380;
+Reference = VP_11;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD448;
+Reference = VP_12;
+ValeurCmp = VPDEV0;
+IdModule  = BMPVPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56AFD510;
+Reference = Y1;
+ValeurCmp = CRYSTAL5X3;
+IdModule  = SPARKFUN_CRYSTAL-SMD-5X3;
+EndCmp
+
+EndListe
