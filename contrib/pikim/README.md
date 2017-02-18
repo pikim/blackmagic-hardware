@@ -9,8 +9,8 @@ This board has been built and it works.
 
 The filenames are misleading, but were just kept after the conversion from EAGLE.
 
-## Photos
+### Photos
 
 ![PCB Top Side](blackmagic_richardeoin_front.jpg "PCB Top Side")
 ![PCB Bottom Side](blackmagic_richardeoin_back.jpg "PCB Bottom Side")
-The errors in the solder stop mask are fixed in the meantime.
+The pictures show the assembled board, which was at that time also an EAGLE design. The design files in this repository were converted and fixed (errors in the solder stop mask) after taking the pictures.
